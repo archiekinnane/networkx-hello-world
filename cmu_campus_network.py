@@ -79,7 +79,7 @@ print(f"  Walking time: {walking_time} minutes")
 # ============================================================================
 # PART 4: Network Analysis
 # ============================================================================
-print("Part 4: Analyzing the network...")
+print("Part 4: Analyzing the network....")
 
 # TODO: Calculate the degree (number of connections) for each building
 print("\nConnections per building:")
