@@ -3,7 +3,7 @@
   // Use the Dockerfile instead of pre-built image
   "build": {
     "dockerfile": "Dockerfile",
-    "context": ".." // Build context is project root (parent directory)
+    "context": "" // Build context is project root (parent directory)
   },
   // Features to add to the dev container
   "features": {
